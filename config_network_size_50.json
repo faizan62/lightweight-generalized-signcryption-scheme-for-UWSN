@@ -1,0 +1,12 @@
+{
+    "network_size": 50,
+    "node_type": "sensor",
+    "communication_medium": "acoustic",
+    "frequency_range": "low frequency",
+    "node_spacing": "50 meters",
+    "depth_variation": "10-40 meters",
+    "energy_efficiency": "high",
+    "security_protocol": "novel lightweight generalized signcryption",
+    "simulation_duration": "48 hours",
+    "data_logging_interval": "5 minutes"
+}

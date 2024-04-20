@@ -1,0 +1,15 @@
+
+network_size: 100
+node_type: sensor
+communication_medium: acoustic
+frequency_range: very low frequency
+node_spacing: 100 meters
+depth_variation: 20-60 meters
+latency_simulation: true
+high_latency_settings:
+  max_latency: 2000 ms  # Maximum latency introduced
+  average_latency: 1000 ms  # Average latency
+energy_efficiency: moderate
+security_protocol: novel lightweight generalized signcryption
+simulation_duration: 72 hours
+data_logging_interval: 10 minutes
